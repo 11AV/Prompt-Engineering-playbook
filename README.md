@@ -19,8 +19,8 @@ This playbook is organized into distinct, actionable modules. Each module contai
 | **Module 2** | Structural Grounding & Eliminating "Instruction Drift" | `[Download Claude Prompting Handbook] (docs/claude_Prompting_Handbook 1.pdf)`| ✅ Production Ready |
 | **Module 3** | Introduction to Loop Engineering 101 (Foundational Primer) | `[Download Foundational Loop Engineering.pdf] (docs/Foundational_Loop_Engineering.pdf)` | ✅ Production Ready |
 | **Module 4** | Autonomous Inner-Loop Implementation & Primitives | `[Download Interactive Enterprise SaaS Loops.pdf] (docs/Interactive_Enterprise_SaaS_Loops.pdf)` | ✅ Production Ready |
-| **Module 5** | *[Upcoming Topic]* | *Templates Staged* | ⏳ In Pipeline |
-| **Module 6** | *[Upcoming Topic]* | *Templates Staged* | ⏳ In Pipeline |
+| **Module 5** | *MCP* | *Templates Staged* | ⏳ In Pipeline |
+| **Module 6** | *Ai Chat vs Ai Agents* | *Templates Staged* | ⏳ In Pipeline |
 
 ---
 
