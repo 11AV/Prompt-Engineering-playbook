@@ -13,14 +13,14 @@ As artificial intelligence scales from transactional chat prompts to multi-step,
 
 This playbook is organized into distinct, actionable modules. Each module contains fully copy-pasteable markdown text below, paired with high-fidelity, interactive PDF documents stored in the `/docs` directory for team briefings and deep dives.
 
-| Module | Core Topic | Interactive Artifact | Status |
-| :--- | :--- | :--- | :--- |
-| **Module 1** | Full-Scale Architecture & Daily Engineering Frameworks | `[Download Gemini Prompt Engineering Templates] (docs/Gemini_Prompt_Engineering_Templates.pdf)` | ✅ Production Ready |
-| **Module 2** | Structural Grounding & Eliminating "Instruction Drift" | `[Download Claude Prompting Handbook] (docs/claude_Prompting_Handbook 1.pdf)`| ✅ Production Ready |
-| **Module 3** | Introduction to Loop Engineering 101 (Foundational Primer) | `[Download Foundational Loop Engineering.pdf] (docs/Foundational_Loop_Engineering.pdf)` | ✅ Production Ready |
-| **Module 4** | Autonomous Inner-Loop Implementation & Primitives | `[Download Interactive Enterprise SaaS Loops.pdf] (docs/Interactive_Enterprise_SaaS_Loops.pdf)` | ✅ Production Ready |
-| **Module 5** | *MCP* | *Templates Staged* | ⏳ In Pipeline |
-| **Module 6** | *Ai Chat vs Ai Agents* | *Templates Staged* | ⏳ In Pipeline |
+| Module | Core Topic |
+| :--- | :--- | 
+| **Module 1** | Full-Scale Architecture & Daily Engineering Frameworks |
+| **Module 2** | Structural Grounding & Eliminating "Instruction Drift" | 
+| **Module 3** | Introduction to Loop Engineering 101 (Foundational Primer) | 
+| **Module 4** | Autonomous Inner-Loop Implementation & Primitives | 
+| **Module 5** | MCP | 
+| **Module 6** | *Ai Chat vs Ai Agents* | 
 
 ---
 
